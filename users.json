@@ -1,0 +1,30 @@
+[
+  {
+    "username": "testuser",
+    "password": "password123"
+  },
+  {
+    "username": "testuser2",
+    "password": "password123"
+  },
+  {
+    "username": "testuser3",
+    "password": "password123"
+  },
+  {
+    "username": "testuser4 ",
+    "password": "password123"
+  },
+  {
+    "username": "testuser1",
+    "password": "password123"
+  },
+  {
+    "username": "testuser5",
+    "password": "$2b$10$yNeawDA9ib0k.wQ8QTlIAeFLLYfegNpxzephSsOYOwQk7pbnQ4u4K"
+  },
+  {
+    "username": "testuser6",
+    "password": "$2b$10$diz30ZfFsdXcagDCsm7R.O.hJ.ucGSzaBKIguYvl9CAWKC/MzLsLe"
+  }
+]
